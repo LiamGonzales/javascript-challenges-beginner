@@ -15,3 +15,20 @@ if (!output) throw "Output container not found.";
 
 //@ts-check
 // your code starts after this line
+
+// function countNummbers(start, end) {
+//    console.log(start);
+//    if (start < end){
+//       countNummbers(start + .75, end);
+//    }
+// }
+// countNummbers(2, 1000)
+// end = 100
+
+
+for (let number = 0; number < array.length; number++) {
+   const element = array[number];
+   if (number < 10000, number + 2) {
+      
+   }
+}
